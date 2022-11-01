@@ -1,0 +1,10 @@
+com/tommydittberner/productservvice/dto/ProductRequest.class
+com/tommydittberner/productservvice/dto/ProductRequest$ProductRequestBuilder.class
+com/tommydittberner/productservvice/ProductServiceApplication.class
+com/tommydittberner/productservvice/dto/ProductResponse.class
+com/tommydittberner/productservvice/dto/ProductResponse$ProductResponseBuilder.class
+com/tommydittberner/productservvice/controller/ProductController.class
+com/tommydittberner/productservvice/service/ProductService.class
+com/tommydittberner/productservvice/model/Product.class
+com/tommydittberner/productservvice/model/Product$ProductBuilder.class
+com/tommydittberner/productservvice/repository/ProductRepository.class

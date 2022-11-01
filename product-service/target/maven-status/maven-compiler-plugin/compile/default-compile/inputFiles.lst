@@ -1,0 +1,7 @@
+/Users/tommy/dev/projects/microservices-parent/product-service/src/main/java/com/tommydittberner/productservvice/service/ProductService.java
+/Users/tommy/dev/projects/microservices-parent/product-service/src/main/java/com/tommydittberner/productservvice/model/Product.java
+/Users/tommy/dev/projects/microservices-parent/product-service/src/main/java/com/tommydittberner/productservvice/ProductServiceApplication.java
+/Users/tommy/dev/projects/microservices-parent/product-service/src/main/java/com/tommydittberner/productservvice/dto/ProductRequest.java
+/Users/tommy/dev/projects/microservices-parent/product-service/src/main/java/com/tommydittberner/productservvice/dto/ProductResponse.java
+/Users/tommy/dev/projects/microservices-parent/product-service/src/main/java/com/tommydittberner/productservvice/controller/ProductController.java
+/Users/tommy/dev/projects/microservices-parent/product-service/src/main/java/com/tommydittberner/productservvice/repository/ProductRepository.java

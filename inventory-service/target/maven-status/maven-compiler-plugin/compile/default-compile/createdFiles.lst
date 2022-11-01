@@ -1,0 +1,6 @@
+com/tommydittberner/inventoryservice/model/Inventory$InventoryBuilder.class
+com/tommydittberner/inventoryservice/controller/InventoryController.class
+com/tommydittberner/inventoryservice/repository/InventoryRepository.class
+com/tommydittberner/inventoryservice/InventoryServiceApplication.class
+com/tommydittberner/inventoryservice/model/Inventory.class
+com/tommydittberner/inventoryservice/service/InventoryService.class

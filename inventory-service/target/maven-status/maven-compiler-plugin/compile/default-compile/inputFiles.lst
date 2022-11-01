@@ -1,0 +1,5 @@
+/Users/tommy/dev/projects/microservices-parent/inventory-service/src/main/java/com/tommydittberner/inventoryservice/service/InventoryService.java
+/Users/tommy/dev/projects/microservices-parent/inventory-service/src/main/java/com/tommydittberner/inventoryservice/repository/InventoryRepository.java
+/Users/tommy/dev/projects/microservices-parent/inventory-service/src/main/java/com/tommydittberner/inventoryservice/model/Inventory.java
+/Users/tommy/dev/projects/microservices-parent/inventory-service/src/main/java/com/tommydittberner/inventoryservice/controller/InventoryController.java
+/Users/tommy/dev/projects/microservices-parent/inventory-service/src/main/java/com/tommydittberner/inventoryservice/InventoryServiceApplication.java
